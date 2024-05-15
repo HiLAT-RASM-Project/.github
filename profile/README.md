@@ -10,4 +10,4 @@
 #### HiLAT-RASM is funded by the DOE Office of Science Regional and Global Model Analysis (RGMA) program area.
 
 
-<img src="images/HiLAT_RASM_Logo.jpg" alt="Example Image" width="500" height="300">
+<img src="HiLAT_RASM_institution_logo.png" alt="Example Image" width="1000" height="300">
