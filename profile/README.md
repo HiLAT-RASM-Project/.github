@@ -1,6 +1,3 @@
-![Profile Logo](/profile/HiLAT_RASM_institution_logo.png)
-
-
 # Arctic Metrics for Earth System Modeling at High Latitudes
 A collection of Python/Matlab/R packages for the evaluation of Arctic climate processes in the HiLAT-RASM project.
 
@@ -13,16 +10,7 @@ The research project "HiLAT-RASM" aims to answer Arctic and Antarctic climate ch
 ## Funding
 HiLAT-RASM is funded by the DOE Office of Science Regional and Global Model Analysis (RGMA) program area.
 
-## Contributing
-We welcome contributions from the community. Please read our [contributing guidelines](LINK_TO_GUIDELINES) before submitting a pull request or opening an issue.
-
 ## License
 This project is licensed under [LICENSE_NAME] - see the [LICENSE](LINK_TO_LICENSE) file for details.
 
-## Contact
-For more information on this project, please contact [CONTACT_INFORMATION].
-
-## Acknowledgments
-Special thanks to all collaborators and contributors who have made this project possible.
-
-![HiLAT-RASM Logo](path/to/logo.png)
+![Profile Logo](/profile/HiLAT_RASM_institution_logo.png)
