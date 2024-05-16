@@ -11,6 +11,9 @@ HiLAT-RASM is funded by the DOE Office of Science Regional and Global Model Anal
 ![Profile Logo](/profile/HiLAT_RASM_institution_logo.png)
 
 
+# Arctic Metrics For Earth System Modeling at High Latitudes
+A collection of Python/Matlab/R packages for the evaluation of Actic climate processes in HiLAT-RASM project.
+
 # Earth System Modeling at High Latitudes
 
 ## Overview
