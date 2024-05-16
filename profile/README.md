@@ -10,7 +10,4 @@ The research project "HiLAT-RASM" aims to answer Arctic and Antarctic climate ch
 ## Funding
 HiLAT-RASM is funded by the DOE Office of Science Regional and Global Model Analysis (RGMA) program area.
 
-## License
-This project is licensed under [LICENSE_NAME] - see the [LICENSE](LINK_TO_LICENSE) file for details.
-
 ![Profile Logo](/profile/HiLAT_RASM_institution_logo.png)
